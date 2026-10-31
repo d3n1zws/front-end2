@@ -5,14 +5,14 @@ body
 div
 {
     background-color: rgb(183, 206, 199);
-    margin: 30px;
+    margin: 60px;
     border: 10%;
+    padding: 20px;
 }
 #id1
 {
-    
+    width: 700px;
 }
 #id2
 {
-
 }
