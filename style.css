@@ -1,19 +1,20 @@
 body
 {
-    background-color: rgb(226, 235, 214);
+    background-color: rgb(249, 242, 249);
 }
 div
 {
-    background-color: rgb(183, 206, 199);
     margin: 60px;
     border: 10%;
     padding: 20px;
+    border-radius: 50px;
+    width: 900px;
 }
 #id1
 {
-    width: 700px;
+    background-color: rgb(242, 249, 214);
 }
 #id2
 {
-    
+    background-color: rgb(224, 247, 227);
 }
